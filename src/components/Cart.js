@@ -23,7 +23,7 @@ export default function Cart() {
         <p>История</p>
         <p>Оплатить по коду</p>
         <p>ONAY! QR</p>
-        <p>Мои билеты</p>
+        <p>Мои билеты 2</p>
       </div>
     </div>
   )
